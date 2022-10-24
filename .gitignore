@@ -1,0 +1,15 @@
+#node files
+node_modules/
+package-lock.json
+
+#VS code settings
+.vscode/
+
+#error logs
+logs/
+
+#code coverage files - test cases
+coverage/
+
+#note text files
+notes/
