@@ -1,4 +1,3 @@
 {
-   "jwtPrivateKey" : "Doodle",
    "dbConnectionString" : "mongodb://localhost/vidly"
 }
