@@ -6,7 +6,7 @@ package-lock.json
 .vscode/
 
 #error logs
-# logs/
+logs/
 
 #code coverage files - test cases
 coverage/
